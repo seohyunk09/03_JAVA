@@ -1,0 +1,23 @@
+package ch05.sec05;
+
+public class SplitExample {
+    public static void main(String[] args) {
+        String board = "1,자바 학습,참조 타입 String 을 학습합니다,홍길동";
+
+        // 쉼표로 구분하여 배열로 분리
+        String[] tokens = board.split(",");
+
+        // 라벨 붙여 출력
+        System.out.println("번호 : " + tokens[0]);
+        System.out.println("제목 : " + tokens[1]);
+        System.out.println("내용 : " + tokens[2]);
+        System.out.println("성명 : " + tokens[3]);
+
+        System.out.println(); // 줄 바꿈
+
+        // for문으로 배열 항목 출력
+        for (int i = 0; i < tokens.length; i++) {
+            System.out.println(tokens[i]);
+        }
+    }
+}

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3eb9dcbb-ccaf-4087-a94c-6989268ce78d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec02/exam01/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec02/exam02/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec03/exam01/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec03/exam02/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec03/exam03/CopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec04/exam01/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec04/exam02/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec06/CharacterConvertStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec07/exam01/BufferExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec07/exam02/ReadLineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec10/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec10/ObjectInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec10/ObjectOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec10/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec11/FileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch18/sec11/FileExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/12회차_강서현.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter1/Banner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter1/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter1/PrintBanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter2/Banner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter2/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/adapter2/PrintBanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam05/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec03/exam01/HashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec03/exam02/HashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec03/exam02/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec03/exam03/HashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec04/exam01/HashMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec05/exam03/ComparableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec05/exam03/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec05/exam04/ComparatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec05/exam04/ComparatorExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec05/exam04/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec05/exam04/FruitComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec06/exam01/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec06/exam01/StackExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec06/exam02/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/sec06/exam02/QueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/exam01/LambdaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/exam01/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/exam01/Workable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/exam02/ConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/exam02/SupplierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/exam03/MethodRefTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec01/Calculable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec01/LambdaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec02/exam01/LambdaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec02/exam01/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec02/exam01/Workable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec03/LambdaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec03/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec03/Speakable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec03/Workable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec04/Calculable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec04/LambdaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec04/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam01/Calculable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam01/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam01/MethodReferenceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam01/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam03/ConstructorReferenceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam03/Creatable1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam03/Creatable2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam03/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/sec05/exam03/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/framework/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/framework/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/todo/command/AddTaskCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/todo/command/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/todo/command/CommandInvoker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/todo/command/DeleteTaskCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/todo/service/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/todo/service/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/todo/service/TaskManager.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="designpattern" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;seohyunk09&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/seohyunk09/03_JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;820b2f04-a4ea-4559-ba89-0bb261d8eebb&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2w40mACghRY8uCkjMPQKxWSiEwE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.designpattern [:ch15.sec03.exam01.HashSetExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec03.exam02.HashSetExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec03.exam03.HashSetExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec04.exam01.HashMapExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec05.exam03.ComparableExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec05.exam04.ComparatorExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec05.exam04.ComparatorExample2.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec06.exam01.StackExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch15.sec06.exam02.QueueExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch16.exam03.MethodRefTest.main()].executor": "Run",
+    "Gradle.designpattern [:ch16.sec01.LambdaExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch16.sec02.exam01.LambdaExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch16.sec04.LambdaExample.main()].executor": "Run",
+    "Gradle.designpattern [:ch16.sec05.exam01.MethodReferenceExample.main()].executor": "Run",
+    "Gradle.designpattern [:todo.service.Main.main()].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "0430",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/KB_Fullstack/03_JAVA/study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Debugger_Data_Views_Java",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AggregateExample.executor": "Run",
+    "애플리케이션.CharacterConvertStreamExample.executor": "Run",
+    "애플리케이션.DelayOperation.executor": "Debug",
+    "애플리케이션.FileExample.executor": "Run",
+    "애플리케이션.FileExample2.executor": "Run",
+    "애플리케이션.FilteringExample.executor": "Run",
+    "애플리케이션.FlatMappingExample.executor": "Run",
+    "애플리케이션.MapExample.executor": "Run",
+    "애플리케이션.ObjectInputStreamExample.executor": "Run",
+    "애플리케이션.ObjectOutputStreamExample.executor": "Run",
+    "애플리케이션.OptionalExample.executor": "Run",
+    "애플리케이션.OrderAnalysis.executor": "Run",
+    "애플리케이션.SortingExample.executor": "Run",
+    "애플리케이션.StreamExample.executor": "Run",
+    "애플리케이션.StreamPipeLineExample.executor": "Run",
+    "애플리케이션.java.ch17.sec04.exam01.StreamExample.executor": "Run",
+    "애플리케이션.java.ch17.sec04.exam03.StreamExample.executor": "Run",
+    "애플리케이션.javastudy.ch17.sec03.StreamPipeLineExample.executor": "Run",
+    "애플리케이션.javastudy.ch17.sec05.FilteringExample.executor": "Run",
+    "애플리케이션.javastudy.ch17.sec07.exam02.SortingExample.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.CharacterConvertStreamExample">
+    <configuration name="CharacterConvertStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec06.CharacterConvertStreamExample" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch18.sec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec11.FileExample" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch18.sec11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec11.FileExample2" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch18.sec11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectInputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec10.ObjectInputStreamExample" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch18.sec10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec10.ObjectOutputStreamExample" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch18.sec10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.CharacterConvertStreamExample" />
+        <item itemvalue="애플리케이션.FileExample" />
+        <item itemvalue="애플리케이션.ObjectInputStreamExample" />
+        <item itemvalue="애플리케이션.ObjectOutputStreamExample" />
+        <item itemvalue="애플리케이션.FileExample2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="3eb9dcbb-ccaf-4087-a94c-6989268ce78d" name="변경" comment="" />
+      <created>1745285697406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745285697406</updated>
+      <workItem from="1745285698501" duration="10503000" />
+      <workItem from="1745367058619" duration="8277000" />
+      <workItem from="1745457521707" duration="1972000" />
+      <workItem from="1745799413957" duration="1137000" />
+      <workItem from="1745987868039" duration="12926000" />
+      <workItem from="1746584911592" duration="15965000" />
+      <workItem from="1746669678820" duration="17105000" />
+      <workItem from="1746855034432" duration="4022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
